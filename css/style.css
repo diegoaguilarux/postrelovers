@@ -384,7 +384,7 @@ i:before {
 }
 
 .main_header_area + section, .main_header_area + div, .main_header_area + .row {
-  margin-top: 135px;
+  margin-top: 75px;
 }
 
 .main_header_area.navbar_fixed .main_menu_area {
@@ -1817,6 +1817,7 @@ i:before {
 ============================================================================================ */
 .main_slider_area .rev_slider ul li .slider_text_box .first_text {
   color: #fff;
+  text-shadow: 2px 2px 4px #91416e;
   font-family: "Playfair Display", serif;
   font-weight: bold !important;
 }
@@ -1831,6 +1832,7 @@ i:before {
 
 .main_slider_area .rev_slider ul li .slider_text_box .secand_text {
   color: #fff;
+  text-shadow: 2px 2px 4px #91416e;
   font-family: "Playfair Display", serif;
   font-style: italic;
 }
